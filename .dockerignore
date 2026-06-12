@@ -1,0 +1,14 @@
+node_modules/
+temp/
+src/
+.git/
+.gitignore
+*.md
+package.json
+package-lock.json
+server.js
+vite.config.js
+tsconfig.json
+main.js
+style.css
+index.html
